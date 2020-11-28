@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at Cornell University, double majoring in mathematics and computer science. I am broadly interested in the mathematical foundations of machine learning, including optimization, numerical analysis, and geometric deep learning.
+I am a senior undergraduate student at Cornell University, double majoring in mathematics and computer science. I am broadly interested in the mathematical foundations of machine learning, including optimization, numerical analysis, statistics, and geometric deep learning.
 
 Email: qj46@cornell.edu
 
