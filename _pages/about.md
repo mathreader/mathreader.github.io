@@ -18,8 +18,8 @@ Links: [[CV]](https://mathreader.github.io/files/cv.pdf) [[Github]](https://gith
 Conference Publications
 ======
 1. Horace He, Aaron Lou\*, __Qingxuan Jiang__\*, Isay Katsman\*, Serge Belongie, and Ser-Nam Lim, Adversarial Example Decomposition, International Conference on Machine Learning Workshop (ICMLW), Long Beach, CA, 2019. [[arXiv]](https://arxiv.org/abs/1812.01198)
-1. Aaron Lou\*, Isay Katsman\*, __Qingxuan Jiang__\*,  Serge Belongie,  Ser-Nam Lim, and Christopher De Sa, Differentiating through the Fréchet Mean, International Conference on Machine Learning (ICML), 2020. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/1896-Paper.pdf) [[arXiv]](https://arxiv.org/abs/2003.00335) [[Code]](https://github.com/CUAI/Differentiable-Frechet-Mean) [[Video]](https://icml.cc/virtual/2020/poster/6073)
-1. Aaron Lou\*, Derek Lim\*, Isay Katsman\*, Leo Huang\*, __Qingxuan Jiang__, Ser-Nam Lim, and Christopher De Sa, Neural Manifold Ordinary Differential Equations, to appear at Neural Information Processing Systems (NeurlPS), 2020. [[arXiv]](https://arxiv.org/abs/2006.10254) [[Code]](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations)
+1. Aaron Lou\*, Isay Katsman\*, __Qingxuan Jiang__\*,  Serge Belongie,  Ser-Nam Lim, and Christopher De Sa, Differentiating through the Fréchet Mean, International Conference on Machine Learning (ICML), 2020. [[Paper]](http://proceedings.mlr.press/v119/lou20a/lou20a.pdf) [[arXiv]](https://arxiv.org/abs/2003.00335) [[Code]](https://github.com/CUAI/Differentiable-Frechet-Mean) [[Video]](https://icml.cc/virtual/2020/poster/6073)
+1. Aaron Lou\*, Derek Lim\*, Isay Katsman\*, Leo Huang\*, __Qingxuan Jiang__, Ser-Nam Lim, and Christopher De Sa, Neural Manifold Ordinary Differential Equations, to appear at Neural Information Processing Systems (NeurlPS), 2020. [[Paper]](https://papers.nips.cc/paper/2020/file/cbf8710b43df3f2c1553e649403426df-Paper.pdf) [[arXiv]](https://arxiv.org/abs/2006.10254) [[Code]](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations)
 
 (\* indicates equal contribution)
 
