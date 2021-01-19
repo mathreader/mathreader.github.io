@@ -68,4 +68,4 @@ Activities
 
 Notes on Various Topics
 ======
-- Notes for the Cornell ORIE Topics Class on Kurdyka-Lojasiewicz Inequality in Optimization [[Note]](https://mathreader.github.io/files/note_kurdyka_lojasiewicz_inequality.pdf)
+- Notes for the Cornell Topics Class on Kurdyka-Lojasiewicz Inequality in Optimization [[Note]](https://mathreader.github.io/files/note_kurdyka_lojasiewicz_inequality.pdf)
