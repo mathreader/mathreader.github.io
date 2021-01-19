@@ -50,7 +50,7 @@ I have been an undergraduate teaching assistant for the following courses at Cor
 - CS 2800: Discrete Structures ([SP18](https://courses.cis.cornell.edu/cs2800/wiki/index.php/CS_2800_Spring_2018), [FA18](https://courses.cis.cornell.edu/cs2800/wiki/index.php/CS_2800_Fall_2018), [SP19](https://courses.cis.cornell.edu/cs2800/wiki/index.php/CS_2800_Spring_2019))
 - CS 4820: Introduction to Analysis of Algorithms ([FA19](https://www.cs.cornell.edu/courses/cs4820/2019fa/))
 - CS 4850: Mathematics Foundations for the Information Age ([SP20](https://www.cs.cornell.edu/courses/cs4850/2020sp/))
-- CS 4780: Machine Learning for Intelligent Systems (FA20)
+- CS 4780: Machine Learning for Intelligent Systems (FA20, SP21)
 
 
 Honors and Awards
@@ -64,3 +64,8 @@ Honors and Awards
 Activities
 ======
 - Member, Cornell University Artificial Intelligence Research Group [[Website]](https://cuai.github.io/)
+
+
+Notes on Various Topics
+======
+- Notes for the Cornell ORIE Topics Class on Kurdyka-Lojasiewicz Inequality in Optimization [[Note]](https://mathreader.github.io/files/note_kurdyka_lojasiewicz_inequality.pdf)
