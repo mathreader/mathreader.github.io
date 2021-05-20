@@ -19,27 +19,27 @@ Conference Publications
 ======
 1. Horace He, Aaron Lou\*, __Qingxuan Jiang__\*, Isay Katsman\*, Serge Belongie, and Ser-Nam Lim, Adversarial Example Decomposition, International Conference on Machine Learning Workshop (ICMLW), Long Beach, CA, 2019. [[arXiv]](https://arxiv.org/abs/1812.01198)
 1. Aaron Lou\*, Isay Katsman\*, __Qingxuan Jiang__\*,  Serge Belongie,  Ser-Nam Lim, and Christopher De Sa, Differentiating through the Fréchet Mean, International Conference on Machine Learning (ICML), 2020. [[Paper]](http://proceedings.mlr.press/v119/lou20a/lou20a.pdf) [[arXiv]](https://arxiv.org/abs/2003.00335) [[Code]](https://github.com/CUAI/Differentiable-Frechet-Mean) [[Video]](https://icml.cc/virtual/2020/poster/6073)
-1. Aaron Lou\*, Derek Lim\*, Isay Katsman\*, Leo Huang\*, __Qingxuan Jiang__, Ser-Nam Lim, and Christopher De Sa, Neural Manifold Ordinary Differential Equations, to appear at Neural Information Processing Systems (NeurlPS), 2020. [[Paper]](https://papers.nips.cc/paper/2020/file/cbf8710b43df3f2c1553e649403426df-Paper.pdf) [[arXiv]](https://arxiv.org/abs/2006.10254) [[Code]](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations)
+1. Aaron Lou\*, Derek Lim\*, Isay Katsman\*, Leo Huang\*, __Qingxuan Jiang__, Ser-Nam Lim, and Christopher De Sa, Neural Manifold Ordinary Differential Equations, Neural Information Processing Systems (NeurlPS), 2020. [[Paper]](https://papers.nips.cc/paper/2020/file/cbf8710b43df3f2c1553e649403426df-Paper.pdf) [[arXiv]](https://arxiv.org/abs/2006.10254) [[Code]](https://github.com/CUAI/Neural-Manifold-Ordinary-Differential-Equations) [[Video]](https://slideslive.com/38930925/neural-manifold-ordinary-differential-equations)
 
 (\* indicates equal contribution)
 
 
-Publications Under Review
+Journal Publications
 ======
-1. __Qingxuan Jiang__, Tian Lan, Kasso Okoudjou, Robert Strichartz, Shashank Sule, Sreeram Venkat, Xiaoduo Wang, Sobolov Orthogonal Polynomials on the Sierpinski Gasket, submitted to Journal of Fourier Analysis and Applications. [[arXiv]](https://arxiv.org/abs/2010.00107) [[Code]](https://github.com/s769/op_on_sg)
+1. __Qingxuan Jiang__, Tian Lan, Kasso Okoudjou, Robert Strichartz, Shashank Sule, Sreeram Venkat, Xiaoduo Wang, Sobolov Orthogonal Polynomials on the Sierpinski Gasket, _Journal of Fourier Analysis and Applications_ 27.3 (2021): 1-38. [[Paper]](https://link.springer.com/article/10.1007/s00041-021-09819-0) [[arXiv]](https://arxiv.org/abs/2010.00107) [[Code]](https://github.com/s769/op_on_sg)
 
 (In alphabetical order)
 
 
-Current Research
+Theses and Other Reports
 ======
-- Acceleration of Optimization Algorithms via Numerical Analysis Methods, Advised by Professor [Adrian Lewis](https://people.orie.cornell.edu/aslewis/), Ongoing.
-- Local Elasticity and Generalization of Neural Networks, Advised by Professor [Weijie Su](http://stat.wharton.upenn.edu/~suw/), Ongoing.
+1. Proximal Bundle Methods and Nonlinear Acceleration, Senior Thesis advised by Professor [Adrian Lewis](https://people.orie.cornell.edu/aslewis/). [[Thesis]](https://mathreader.github.io/files/senior_thesis.pdf) [[Code]](https://github.com/mathreader/nonlinear-acceleration-bundle-method)
+1. First-order Methods on Large-scale Convex Optimization Problems, Research project advised by Professor [James Renegar](https://www.engineering.cornell.edu/faculty-directory/james-renegar). [[Report]](https://mathreader.github.io/files/report_first_order_method.pdf) [[Code]](https://github.com/mathreader/first-order-method-feasibility)
 
 
-Past Research Experience
+Other Research Experiences
 ======
-- First-order Methods on Large-scale Convex Optimization Problems, Advised by Professor [James Renegar](https://www.engineering.cornell.edu/faculty-directory/james-renegar). [[Report]](https://mathreader.github.io/files/report_first_order_method.pdf) [[Code]](https://github.com/mathreader/first-order-method-feasibility)
+- Local Elasticity and Generalization of Neural Networks, Advised by Professor [Weijie Su](http://stat.wharton.upenn.edu/~suw/)
 - Analysis and Implementation of Spectral Method, Cornell REU 2020, Advised by Professor [Alex Townsend](http://pi.math.cornell.edu/~ajt/). [[Slide1]](https://mathreader.github.io/files/Slides_REU_Project1_contFEAST_extension.pdf) [[Slide2]](https://mathreader.github.io/files/Slides_REU_Project2_fractional_diffusion_equations.pdf)
 - Orthogonal Polynomials on the Sierpinski Gasket, Cornell SPUR 2019, Advised by Professor [Kasso Okoudjou](https://sites.tufts.edu/kasso/) and [Robert Strichartz](https://math.cornell.edu/robert-s-strichartz). [[arXiv]](https://arxiv.org/abs/2010.00107) [[Website]](https://e.math.cornell.edu/sites/op_on_sg/html/) [[Code]](https://github.com/s769/op_on_sg)
 
