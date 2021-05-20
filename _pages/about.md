@@ -33,8 +33,8 @@ Journal Publications
 
 Theses and Other Reports
 ======
-1. Proximal Bundle Methods and Nonlinear Acceleration, Senior Thesis advised by Professor [Adrian Lewis](https://people.orie.cornell.edu/aslewis/). [[Thesis]](https://mathreader.github.io/files/senior_thesis.pdf) [[Code]](https://github.com/mathreader/nonlinear-acceleration-bundle-method)
-1. First-order Methods on Large-scale Convex Optimization Problems, Research project advised by Professor [James Renegar](https://www.engineering.cornell.edu/faculty-directory/james-renegar). [[Report]](https://mathreader.github.io/files/report_first_order_method.pdf) [[Code]](https://github.com/mathreader/first-order-method-feasibility)
+1. Proximal Bundle Methods and Nonlinear Acceleration: An Exploration, undergraduate thesis advised by Professor [Adrian Lewis](https://people.orie.cornell.edu/aslewis/). [[Thesis]](https://mathreader.github.io/files/senior_thesis.pdf) [[Code]](https://github.com/mathreader/nonlinear-acceleration-bundle-method)
+1. First-order Methods on Large-scale Convex Optimization Problems, research project advised by Professor [James Renegar](https://www.engineering.cornell.edu/faculty-directory/james-renegar). [[Report]](https://mathreader.github.io/files/report_first_order_method.pdf) [[Code]](https://github.com/mathreader/first-order-method-feasibility)
 
 
 Other Research Experiences
